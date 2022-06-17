@@ -1,0 +1,32 @@
+div>a{
+
+    border: solid 1px rgb(240, 119, 119);
+    margin:20px;
+    /* margin-left:100px; */
+    padding: 10px;
+    display: block;
+    align-items: center;
+    text-decoration: dotted;
+    text-align: center;
+}
+p{
+
+    text-align: center;
+}
+/* a{
+
+    /* border: solid 1px rgb(240, 119, 119);
+    margin:20px; */
+    /* margin-left:100px; */
+    /* padding: 10px;
+    display: block;
+    align-items: center;
+    text-decoration: dotted;
+    text-align: center; */
+ 
+
+#abhi{
+
+    display: inline-block;
+    display: flex;
+}

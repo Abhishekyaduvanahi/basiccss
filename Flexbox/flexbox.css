@@ -1,0 +1,44 @@
+.flex {
+
+    border: dotted 2px skyblue;
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.flex>div{
+
+    border: solid 2px lightpink;
+    border-radius: 5px;
+}
+*{
+    box-sizing: border-box;
+}
+/* }
+.one{
+    flex-basis: 50px;
+}
+.two
+{
+    flex-basis: auto;
+}
+.three{
+
+    flex-basis: 200px;
+} */
+
+
+.one{
+    flex-basis:100px;
+    flex-grow: 0;
+}
+.two
+{
+    flex-basis: 100px;
+    flex-grow: 1;
+}
+.three{
+
+    flex-basis: 100px;
+    flex-grow: 1;
+}
